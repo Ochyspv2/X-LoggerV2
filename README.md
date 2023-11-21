@@ -8,3 +8,5 @@ nitro gen & checker
 mail bomber
 webnhook bomber
 & more soon
+# my discord ochychan
+discord.gg/wojack
